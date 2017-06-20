@@ -1,2 +1,2 @@
 # somediary
-some questions from interviews.
+some records.
